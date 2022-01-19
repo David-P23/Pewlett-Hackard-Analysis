@@ -89,6 +89,7 @@ These are evident in the tables below
 
 ![Mentee_count](https://user-images.githubusercontent.com/91306342/150113442-7ffedff7-9baa-464f-981e-ed39e6870942.PNG)
 
+<img width="182" alt="retiring_mentors" src="https://user-images.githubusercontent.com/91306342/150115480-9e52a15f-1cb2-4aad-bf41-799a2306113b.png">
 
 
 
