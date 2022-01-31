@@ -91,5 +91,7 @@ These are evident in the tables below
 
 <img width="182" alt="retiring_mentors" src="https://user-images.githubusercontent.com/91306342/150115480-9e52a15f-1cb2-4aad-bf41-799a2306113b.png">
 
-
+Immediate measures should be taken to mitigate the oncoming wave of retirement. I would recommend exploring  
+means beyond the mentorship program, or at the very least expanding it. This should further minimize the loss  
+of human capital.
 
